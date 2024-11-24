@@ -566,3 +566,7 @@ header .container {
 .modal-container-form-textarea:focus {
     border-color: #4D5AE5;
 }
+
+.modal-container-formdiv-comment {
+    margin-bottom: 16px;
+}
