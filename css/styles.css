@@ -541,6 +541,6 @@ header .container {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-container-input .modal-container-labeldiv-svg:focus {
+.modal-container-labeldiv-svg:focus {
     fill: #4D5AE5;
 }
