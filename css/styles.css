@@ -514,7 +514,7 @@ header .container {
     margin-bottom: 8px;
 }
 
-.modal-container-seconddiv {
+.modal-container-labeldiv {
     position: relative;
 }
 
@@ -533,7 +533,7 @@ header .container {
     border-color: #4D5AE5;
 }
 
-.modal-container-seconddiv-svg {
+.modal-container-labeldiv-svg {
     position: absolute;
     left: 16px;
     top: 50%;
